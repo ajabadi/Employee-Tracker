@@ -27,7 +27,7 @@ Usage:
 
 ### Additional Information 
 
-A [walkthrough video] () to demostrate the functionality of the application will be provided, showcasing the user flow and response handling.
+A [walkthrough video] (https://watch.screencastify.com/v/45XWU93qagWxYap5I2x1) to demostrate the functionality of the application will be provided, showcasing the user flow and response handling.
 
 ### Sample Employee Tracker 
 <img width="1008" alt="Screen Shot 2023-12-12 at 21 29 06" src="https://github.com/ajabadi/Employee-Tracker/assets/145517793/7fc72875-3a15-4230-b08f-6e3673cad842">
